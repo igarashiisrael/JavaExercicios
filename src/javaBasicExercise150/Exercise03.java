@@ -2,7 +2,7 @@ package javaBasicExercise150;
 
 import java.util.Scanner;
 
-public class Exercise3 {
+public class Exercise03 {
 	
 	/*
 	 * 3. Write a Java program to divide two numbers and print on the screen.

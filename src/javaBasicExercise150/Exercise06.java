@@ -2,7 +2,7 @@ package javaBasicExercise150;
 
 import java.util.Scanner;
 
-public class Exercise6 {
+public class Exercise06 {
 	
 	/*6. Write a Java program to print the sum (addition), multiply, subtract, divide and remainder of two numbers.
 	 * Test Data:Input first number: 125

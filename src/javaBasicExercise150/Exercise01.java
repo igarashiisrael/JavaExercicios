@@ -2,7 +2,7 @@ package javaBasicExercise150;
 
 import java.util.Scanner;
 
-public class Exercise1 {
+public class Exercise01 {
 
 	public static void main(String[] args) {
 		/* 

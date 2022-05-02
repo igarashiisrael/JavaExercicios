@@ -1,6 +1,6 @@
 package javaBasicExercise150;
 
-public class Exercise4 {
+public class Exercise04 {
 	
 	/*4. Write a Java program to print the result of the following operations.
 	 * Test Data: 

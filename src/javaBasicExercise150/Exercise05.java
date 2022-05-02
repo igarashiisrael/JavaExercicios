@@ -2,7 +2,7 @@ package javaBasicExercise150;
 
 import java.util.Scanner;
 
-public class Exercise5 {
+public class Exercise05 {
 
 	/*
 	 * 5. Write a Java program that takes two numbers as input and display the

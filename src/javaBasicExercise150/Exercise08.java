@@ -1,6 +1,6 @@
 package javaBasicExercise150;
 
-public class Exercise8 {
+public class Exercise08 {
 	
 	/*Write a Java program to display the following pattern.
 	 * Sample Pattern :
